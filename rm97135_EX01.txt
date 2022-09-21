@@ -18,5 +18,5 @@ elif plano==3:
     print(faturamento*0.1)
 elif plano==4:
     print(faturamento*0.05)
-elif plano>4:
+else plano>4:
     print("plano inexistente")
